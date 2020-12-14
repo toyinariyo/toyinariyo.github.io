@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+/* CV */
+.CV { margin: 0px 0px 60px; }
+.CV h1 { font-size: 3em; }
+.CV h2 { font-size: 2em; }
+.CV .download { float: right; font-size: .8em; text-transform: uppercase; }
