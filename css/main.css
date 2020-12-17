@@ -47,3 +47,5 @@ ul.posts li {
 .cv h2 { font-size: 2em; }
 .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+.cv .downloadsample { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv .downloadsample { text-align: center; font-size: .8em; text-transform: uppercase; }
